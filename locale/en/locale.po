@@ -15,22 +15,22 @@ msgid "plugins.generic.preprintToJournal.displayName"
 msgstr "Preprint to Journal Articale submission plugin"
 
 msgid "plugins.generic.preprintToJournal.description"
-msgstr "This plugin provides the a standeard approach to turn a preprint to journal acticle implementing COAR Notification and LDN protocol."
+msgstr "This plugin provides a standeard approach to turn a preprint to a journal acticle implementing COAR Notification and LDN protocol."
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.response.contextMissing"
 msgstr "Requested journal not available for submission."
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.response.contextSubmissionDisable"
-msgstr "New submission disbale for journal named {$journalName}."
+msgstr "New submissions disabled for journal named {$journalName}."
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.response.userNotFound"
 msgstr "No user record found for associated api key."
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.response.userDisable"
-msgstr "User is disable."
+msgstr "User account is disabled."
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.response.userSubmissionPermissionDenied"
-msgstr "Do not have permission of post sibmission in the {$journalName}."
+msgstr "You do not have permission to post submissions to {$journalName}."
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.response.success"
 msgstr "Successful authorization to post new submission."
@@ -39,13 +39,13 @@ msgid "plugins.generic.preprintToJournal.service.create.name"
 msgstr "Add New Service"
 
 msgid "plugins.generic.preprintToJournal.service.index.name"
-msgstr "Services."
+msgstr "Services"
 
 msgid "plugins.generic.preprintToJournal.service.from.add.heading"
 msgstr "Add a journal service to publish the preprint."
 
 msgid "plugins.generic.preprintToJournal.service.from.add.description"
-msgstr "These settings help identify which services will be showen as list for publish preprint as a journal article."
+msgstr "These settings help identify which services will be shown as list for publish preprint as a journal article."
 
 msgid "plugins.generic.preprintToJournal.service.from.field.name"
 msgstr "Journal Service Name"
@@ -60,10 +60,10 @@ msgid "plugins.generic.preprintToJournal.service.from.field.ip"
 msgstr "Service IP Address"
 
 msgid "plugins.generic.preprintToJournal.service.from.add.button.text"
-msgstr "Add New Journal Service."
+msgstr "Add New Journal Service"
 
 msgid "plugins.generic.preprintToJournal.service.from.update.button.text"
-msgstr "Update Journal Service."
+msgstr "Update Journal Service"
 
 msgid "plugins.generic.preprintToJournal.service.from.field.name.required"
 msgstr "Journal Service name is required."
@@ -75,10 +75,10 @@ msgid "plugins.generic.preprintToJournal.service.register.confirm"
 msgstr "Are you sure you want to run the registration process for the service {$ServiceName} again?"
 
 msgid "plugins.generic.preprintToJournal.service.enable.confirm"
-msgstr "Are you sure you want to enable service {$ServiceName} ?"
+msgstr "Are you sure you want to enable service {$ServiceName}?"
 
 msgid "plugins.generic.preprintToJournal.service.disable.confirm"
-msgstr "Are you sure you want to disable service {$ServiceName} ?"
+msgstr "Are you sure you want to disable service {$ServiceName}?"
 
 msgid "plugins.generic.preprintToJournal.service.authorize.confirm"
 msgstr "Are you sure you want to authorize the service {$ServiceName}?"
@@ -138,7 +138,7 @@ msgid "plugins.generic.preprintToJournal.publishingJournal.service.select.label"
 msgstr "Publishing OJS Journal Service"
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.service.select.description"
-msgstr "Select one of the authorized journal services to publish the preprint to journal articel."
+msgstr "Select one of the authorized journal services to publish the preprint to journal article."
 
 msgid "plugins.generic.preprintToJournal.publishingJournal.service.select.button.title"
 msgstr "Proceed to Journal Transfer"
